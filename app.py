@@ -11,8 +11,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Set up Streamlit app configuration
-st.set_page_config(page_title="LangChain: Summarize Text From YT or Website", page_icon="🦜")
-st.title("🦜 LangChain: Summarize Text From YT or Website")
+st.set_page_config(page_title="LangChain: Summarize Text From YT or Website", page_icon="👽")
+st.title("👽 SkyChat-Summariser")
 st.subheader('Summarize URL')
 
 # Retrieve Groq API Key from environment variables
